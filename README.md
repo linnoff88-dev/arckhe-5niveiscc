@@ -1,4 +1,4 @@
-﻿# Os 5 NÃ­veis do Claude Code
+# Os 5 NÃ­veis do Claude Code
 
 <div align="center">
   <img src="capa/logo.svg" alt="Arckhé AI" height="48" />
@@ -8,7 +8,7 @@
 
 Curso completo em PT-BR cobrindo os 5 nÃ­veis de domÃ­nio do Claude â€” do Entusiasta ao Arquiteto â€” com cheat codes entre cada nÃ­vel e uma prova final de 50 questÃµes.
 
-Formato visual: **INEMA.CLUB** (dark-first, responsivo, light mode obrigatÃ³rio, tailwindcss via CDN, sem build).
+Formato visual: **ARCKHÉ AI** (dark-first, responsivo, light mode obrigatÃ³rio, tailwindcss via CDN, sem build).
 
 ## Estrutura
 
@@ -60,7 +60,7 @@ Abra `index.html` no navegador. Sem build, sem servidor, sem dependÃªncias.
 - "Every Level of Claude Explained" (transcript em `/doc/resumo.txt`)
 - VersÃµes PT-BR em `/doc/nivel_*.md`
 - ValidaÃ§Ã£o web (Maio/2026): Code w/ Claude, hooks, routines, dreaming, outcomes
-- Design system [INEMA.CLUB](https://inema.club)
+- Design system [ARCKHÉ AI](https://ARCKHÉ AI)
 
 ---
 
