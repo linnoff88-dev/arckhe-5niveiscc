@@ -13,7 +13,7 @@ No Nível 2, você começa a criar ambientes organizados para cada tipo de traba
 Exemplo:
 
 - um projeto para sua empresa;
-- um projeto para criação de conteúdo;
+- um projeto para criaçêo de conteúdo;
 - um projeto para atendimento a clientes;
 - um projeto para estudo;
 - um projeto para automações;
@@ -31,13 +31,13 @@ E passar para isso:
 
 > “Claude, continue a partir do que já combinamos no projeto.”
 
-Esse é o ponto em que Claude começa a economizar tempo de verdade, porque você reduz a repetição.
+Esse é o ponto em que Claude começa a economizar tempo de verdade, porque você reduz a repetiçêo.
 
 ## Para que serve na prática
 
 ### 1. Criar projetos por área de trabalho
 
-Projetos são como pastas inteligentes.
+Projetos sêo como pastas inteligentes.
 
 Você pode separar seu uso por tema.
 
@@ -50,7 +50,7 @@ Exemplos práticos:
 - legendas;
 - calendários editoriais;
 - resumo de lives;
-- adaptação de conteúdo longo em conteúdo curto.
+- adaptaçêo de conteúdo longo em conteúdo curto.
 
 **Projeto: Clientes**
 
@@ -96,11 +96,11 @@ Exemplos:
 - perguntas frequentes;
 - textos antigos.
 
-Com isso, Claude passa a responder com base nos seus próprios materiais, não apenas em conhecimento genérico.
+Com isso, Claude passa a responder com base nos seus próprios materiais, nêo apenas em conhecimento genérico.
 
 Exemplo prático:
 
-Você adiciona um documento com a descrição dos seus serviços.
+Você adiciona um documento com a descriçêo dos seus serviços.
 
 Depois pede:
 
@@ -108,17 +108,17 @@ Depois pede:
 
 A resposta tende a ficar muito mais alinhada.
 
-### 3. Criar uma instrução fixa do projeto
+### 3. Criar uma instruçêo fixa do projeto
 
-Cada projeto deve ter uma orientação clara.
+Cada projeto deve ter uma orientaçêo clara.
 
 Você pode escrever algo como:
 
-> “Você é meu assistente para criação de conteúdo. Responda em português do Brasil, com tom claro, direto e profissional. Sempre que eu pedir um roteiro, organize em abertura, desenvolvimento e chamada final. Evite linguagem exagerada. Priorize exemplos práticos.”
+> “Você é meu assistente para criaçêo de conteúdo. Responda em português do Brasil, com tom claro, direto e profissional. Sempre que eu pedir um roteiro, organize em abertura, desenvolvimento e chamada final. Evite linguagem exagerada. Priorize exemplos práticos.”
 
 Isso evita repetir preferências toda vez.
 
-## Modelo prático de instrução para projeto
+## Modelo prático de instruçêo para projeto
 
 ```text
 Você é meu assistente para [área do projeto].
@@ -137,13 +137,13 @@ Preferências:
 - Organize respostas em tópicos.
 - Dê exemplos aplicáveis.
 - Evite respostas genéricas.
-- Quando faltar informação, faça uma suposição razoável e avise.
+- Quando faltar informaçêo, faça uma suposiçêo razoável e avise.
 
 Formatos úteis:
 - Checklists
 - Roteiros
 - Resumos
-- Planos de ação
+- Planos de açêo
 - Tabelas simples
 - Mensagens prontas
 ```
@@ -165,7 +165,7 @@ Exemplos úteis:
 
 Uso prático:
 
-> “Lembre que eu prefiro respostas com exemplos práticos e sem enrolação.”
+> “Lembre que eu prefiro respostas com exemplos práticos e sem enrolaçêo.”
 
 ### 2. Busca em conversas anteriores
 
@@ -174,7 +174,7 @@ Em planos pagos, Claude pode buscar informações em conversas antigas.
 Exemplos:
 
 - “Qual foi a estrutura de proposta que criamos na semana passada?”
-- “Recupere a ideia de roteiro sobre automação que discutimos.”
+- “Recupere a ideia de roteiro sobre automaçêo que discutimos.”
 - “O que decidimos sobre o projeto X?”
 
 Esse recurso reduz muito o retrabalho.
@@ -200,7 +200,7 @@ Uso prático:
 
 A grande vantagem é parar de copiar e colar tudo manualmente.
 
-### 4. Criação de arquivos
+### 4. Criaçêo de arquivos
 
 No Nível 2, Claude pode ajudar a gerar entregáveis reais.
 
@@ -220,13 +220,13 @@ Uso prático:
 
 - “Crie uma proposta comercial em formato de documento com base neste briefing.”
 - “Monte uma planilha de controle de leads.”
-- “Crie uma apresentação com 8 slides sobre esse tema.”
+- “Crie uma apresentaçêo com 8 slides sobre esse tema.”
 
-Aqui Claude começa a deixar de ser apenas conversa e vira ferramenta de produção.
+Aqui Claude começa a deixar de ser apenas conversa e vira ferramenta de produçêo.
 
 ### 5. Artifacts
 
-Artifacts são espaços onde Claude pode criar algo mais estruturado, como:
+Artifacts sêo espaços onde Claude pode criar algo mais estruturado, como:
 
 - páginas simples;
 - protótipos;
@@ -270,7 +270,7 @@ Adiciona:
 
 Depois pode pedir:
 
-- “Crie 5 posts sobre automação para pequenos negócios seguindo meu estilo.”
+- “Crie 5 posts sobre automaçêo para pequenos negócios seguindo meu estilo.”
 - “Transforme esse vídeo em 3 posts e 1 roteiro curto.”
 - “Monte um calendário editorial para a próxima semana.”
 
@@ -291,7 +291,7 @@ Depois pede:
 
 - “Crie uma proposta para um cliente que precisa organizar atendimento com IA.”
 - “Adapte essa proposta para um cliente pequeno, com linguagem mais simples.”
-- “Gere uma versão curta para WhatsApp.”
+- “Gere uma versêo curta para WhatsApp.”
 
 ### Exemplo 3: Projeto de estudos
 
@@ -329,13 +329,13 @@ Crie pelo menos 1 projeto com:
    Adicione materiais que Claude deve usar.
 
 5. **Formatos preferidos**  
-   Exemplo: resumo, checklist, roteiro, tabela, plano de ação.
+   Exemplo: resumo, checklist, roteiro, tabela, plano de açêo.
 
 6. **Tom de voz**  
    Exemplo: direto, profissional, simples, persuasivo, didático.
 
 7. **Regras do que evitar**  
-   Exemplo: não usar linguagem exagerada, não inventar dados, não escrever textos longos demais.
+   Exemplo: nêo usar linguagem exagerada, nêo inventar dados, nêo escrever textos longos demais.
 
 ## Prompt prático para começar o Nível 2
 
@@ -369,21 +369,21 @@ Ruim:
 Melhor:
 
 - “Conteúdo para Instagram”
-- “Propostas de automação”
+- “Propostas de automaçêo”
 - “Estudos sobre Claude”
 - “Processos internos”
 
 Quanto mais específico, melhor.
 
-### 2. Não adicionar documentos
+### 2. Nêo adicionar documentos
 
 Um projeto sem documentos vira quase um chat comum.
 
 O ideal é colocar materiais que sirvam como base.
 
-### 3. Não escrever instruções fixas
+### 3. Nêo escrever instruções fixas
 
-Sem instrução, Claude pode responder de forma inconsistente.
+Sem instruçêo, Claude pode responder de forma inconsistente.
 
 Você precisa explicar:
 
@@ -400,23 +400,23 @@ Um projeto para conteúdo, outro para clientes, outro para estudos.
 
 Isso mantém o contexto limpo.
 
-### 5. Não revisar os resultados
+### 5. Nêo revisar os resultados
 
 Mesmo com contexto, você deve validar o que Claude produziu.
 
-O Nível 2 melhora qualidade, mas não elimina supervisão.
+O Nível 2 melhora qualidade, mas nêo elimina supervisêo.
 
 ## Como saber que você domina o Nível 2
 
 Você está dominando este nível quando:
 
-- não precisa repetir o mesmo contexto toda hora;
+- nêo precisa repetir o mesmo contexto toda hora;
 - seus projetos têm documentos úteis;
 - Claude já responde no seu estilo;
 - você consegue recuperar ideias antigas;
 - você gera arquivos e entregáveis com mais rapidez;
 - suas respostas ficam mais consistentes;
-- você usa Claude como ambiente de trabalho, não apenas como chat.
+- você usa Claude como ambiente de trabalho, nêo apenas como chat.
 
 ## Resultado esperado
 
@@ -426,10 +426,10 @@ Você ganha principalmente:
 
 - velocidade;
 - consistência;
-- organização;
+- organizaçêo;
 - reaproveitamento de conhecimento;
-- produção de arquivos;
-- integração com ferramentas;
+- produçêo de arquivos;
+- integraçêo com ferramentas;
 - menos retrabalho.
 
 ## Caminho para o Nível 3
@@ -449,4 +449,4 @@ Quando você começar a pensar:
 
 > “Eu queria que Claude simplesmente fizesse isso no meu computador…”
 
-você está pronto para o **Nível 3 — Intermediário**, onde entram acesso a arquivos, execução de tarefas, skills e automações locais.
+você está pronto para o **Nível 3 — Intermediário**, onde entram acesso a arquivos, execuçêo de tarefas, skills e automações locais.

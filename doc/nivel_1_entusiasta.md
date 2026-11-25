@@ -1,6 +1,6 @@
 # Nível 1 — Entusiasta
 
-O **Nível 1** é o estágio inicial de uso do Claude. Aqui, a pessoa usa a IA como um **chat inteligente para tarefas rápidas**, sem ainda aproveitar recursos mais avançados como projetos, memória, conectores, automações ou organização de contexto.
+O **Nível 1** é o estágio inicial de uso do Claude. Aqui, a pessoa usa a IA como um **chat inteligente para tarefas rápidas**, sem ainda aproveitar recursos mais avançados como projetos, memória, conectores, automações ou organizaçêo de contexto.
 
 É o uso mais simples, mas já pode gerar muito ganho se for bem aplicado.
 
@@ -33,7 +33,7 @@ Exemplos práticos:
 - “Transforme essas ideias em um e-mail profissional.”
 - “Reescreva esse texto de forma mais simples.”
 - “Melhore esse parágrafo sem mudar o sentido.”
-- “Faça uma versão mais curta e direta.”
+- “Faça uma versêo mais curta e direta.”
 
 Uso real: você escreve de forma bruta, Claude organiza, melhora o tom e deixa pronto para enviar.
 
@@ -49,7 +49,7 @@ Exemplos:
 - “Transforme isso em um checklist.”
 - “Separe o que é importante do que é secundário.”
 
-Uso real: em vez de ler tudo com atenção desde o começo, você pede uma visão geral e depois aprofunda onde importa.
+Uso real: em vez de ler tudo com atençêo desde o começo, você pede uma visêo geral e depois aprofunda onde importa.
 
 ### 3. Explicar assuntos difíceis
 
@@ -73,7 +73,7 @@ Exemplos:
 
 - “Me dê 10 ideias de posts sobre esse tema.”
 - “Crie nomes para uma série de vídeos.”
-- “Sugira títulos para uma apresentação.”
+- “Sugira títulos para uma apresentaçêo.”
 - “Crie ideias de imagens para esse conteúdo.”
 - “Me ajude a pensar em uma campanha simples.”
 
@@ -81,7 +81,7 @@ Uso real: você usa Claude para sair do bloqueio criativo e começar com várias
 
 ### 5. Corrigir e revisar
 
-Você pode pedir revisão de textos.
+Você pode pedir revisêo de textos.
 
 Exemplos:
 
@@ -99,7 +99,7 @@ Mesmo no Nível 1, Claude pode ajudar com coisas técnicas simples.
 
 Exemplos:
 
-- “Crie uma fórmula de Excel para calcular comissão.”
+- “Crie uma fórmula de Excel para calcular comissêo.”
 - “Faça um script simples para renomear arquivos.”
 - “Explique esse erro.”
 - “Me ajude a montar uma planilha básica.”
@@ -118,7 +118,7 @@ Exemplo fraco:
 
 Exemplo melhor:
 
-> “Tenho uma pequena empresa local. Quero divulgar um serviço novo no Instagram. Crie 5 ideias de posts com tom simples, direto e voltado para clientes que ainda não conhecem a solução.”
+> “Tenho uma pequena empresa local. Quero divulgar um serviço novo no Instagram. Crie 5 ideias de posts com tom simples, direto e voltado para clientes que ainda nêo conhecem a soluçêo.”
 
 A diferença está no **contexto**.
 
@@ -132,7 +132,7 @@ Use esta estrutura:
 
 Exemplo:
 
-> “Eu preciso responder um cliente que reclamou de atraso na entrega. Quero uma mensagem educada, curta e profissional. O objetivo é pedir desculpas, explicar que estamos verificando e prometer retorno ainda hoje. Não quero parecer defensivo.”
+> “Eu preciso responder um cliente que reclamou de atraso na entrega. Quero uma mensagem educada, curta e profissional. O objetivo é pedir desculpas, explicar que estamos verificando e prometer retorno ainda hoje. Nêo quero parecer defensivo.”
 
 Esse prompt é muito melhor do que:
 
@@ -143,7 +143,7 @@ Esse prompt é muito melhor do que:
 ### Para e-mail
 
 ```text
-Escreva um e-mail profissional para [pessoa] dizendo que [situação].
+Escreva um e-mail profissional para [pessoa] dizendo que [situaçêo].
 Quero um tom educado, direto e cordial.
 Termine com uma chamada para resposta.
 ```
@@ -155,7 +155,7 @@ Resuma o texto abaixo em 5 tópicos principais.
 Depois, destaque as 3 ações práticas que eu deveria tomar.
 ```
 
-### Para explicação
+### Para explicaçêo
 
 ```text
 Explique esse assunto como se eu fosse iniciante.
@@ -169,7 +169,7 @@ Crie 10 ideias de conteúdo sobre [tema] para [público].
 Quero ideias simples, úteis e com títulos chamativos.
 ```
 
-### Para revisão
+### Para revisêo
 
 ```text
 Revise o texto abaixo.
@@ -202,12 +202,12 @@ Isso economiza tempo porque Claude consegue interpretar imagens, textos visuais,
 Mesmo sem usar recursos avançados, você já pode economizar tempo em:
 
 - respostas de e-mail;
-- criação de textos;
+- criaçêo de textos;
 - resumos;
-- revisão de conteúdo;
+- revisêo de conteúdo;
 - ideias para posts;
 - explicações;
-- organização de pensamentos;
+- organizaçêo de pensamentos;
 - pequenas tarefas técnicas.
 
 Um usuário bem organizado no Nível 1 pode economizar facilmente **20 a 30 minutos por dia**.
@@ -223,7 +223,7 @@ Você precisa explicar novamente:
 - qual tom prefere;
 - qual projeto está trabalhando;
 - quais decisões já tomou;
-- quais documentos são importantes.
+- quais documentos sêo importantes.
 
 Por isso, o Nível 1 é bom para tarefas rápidas, mas ruim para trabalhos contínuos.
 

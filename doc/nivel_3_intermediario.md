@@ -12,17 +12,17 @@ No Nível 1, Claude responde perguntas.
 
 No Nível 2, Claude trabalha com projetos, memória e documentos.
 
-No **Nível 3**, Claude começa a atuar como um **colega operacional**, capaz de organizar arquivos, executar fluxos, aplicar modelos, gerar entregáveis e repetir processos com menos supervisão.
+No **Nível 3**, Claude começa a atuar como um **colega operacional**, capaz de organizar arquivos, executar fluxos, aplicar modelos, gerar entregáveis e repetir processos com menos supervisêo.
 
 Exemplo simples:
 
-Você não pede apenas:
+Você nêo pede apenas:
 
 > “Como eu organizo essa pasta?”
 
 Você pede:
 
-> “Organize essa pasta por tipo de arquivo, renomeie os documentos seguindo este padrão e gere um resumo do que encontrou.”
+> “Organize essa pasta por tipo de arquivo, renomeie os documentos seguindo este padrêo e gere um resumo do que encontrou.”
 
 ## A grande mudança do Nível 3
 
@@ -34,7 +34,7 @@ Para:
 
 > “Claude, vá lá e faça.”
 
-Isso muda completamente o valor da ferramenta, porque ela passa a economizar não só tempo de pensamento, mas também **tempo de execução**.
+Isso muda completamente o valor da ferramenta, porque ela passa a economizar nêo só tempo de pensamento, mas também **tempo de execuçêo**.
 
 ## Para que serve na prática
 
@@ -45,7 +45,7 @@ Uma das aplicações mais úteis do Nível 3 é deixar Claude trabalhar com arqu
 Exemplos práticos:
 
 - “Analise esta pasta de PDFs e separe por assunto.”
-- “Renomeie os arquivos usando o padrão: data_cliente_tipo.”
+- “Renomeie os arquivos usando o padrêo: data_cliente_tipo.”
 - “Crie uma pasta para cada cliente e mova os arquivos correspondentes.”
 - “Leia os documentos e gere um índice com resumo de cada um.”
 - “Encontre arquivos duplicados ou mal nomeados.”
@@ -62,9 +62,9 @@ Exemplos:
 - “Extraia as principais decisões desses documentos.”
 - “Transforme esses textos em um relatório.”
 - “Compare estes dois documentos e destaque diferenças.”
-- “Crie uma versão final mais clara e profissional.”
+- “Crie uma versêo final mais clara e profissional.”
 
-Uso real: você delega leitura, triagem e organização de informação.
+Uso real: você delega leitura, triagem e organizaçêo de informaçêo.
 
 ### 3. Criar entregáveis a partir de arquivos
 
@@ -72,7 +72,7 @@ No Nível 3, Claude pode produzir arquivos mais completos com base em materiais 
 
 Exemplos:
 
-- “Com base nesses PDFs, crie uma apresentação de 10 slides.”
+- “Com base nesses PDFs, crie uma apresentaçêo de 10 slides.”
 - “Transforme essas anotações em um documento formal.”
 - “Monte uma planilha com os dados encontrados nesses arquivos.”
 - “Crie um resumo em Markdown com links para os arquivos originais.”
@@ -82,7 +82,7 @@ Uso real: Claude pega materiais brutos e transforma em algo utilizável.
 
 ### 4. Usar skills reutilizáveis
 
-Skills são instruções ou fluxos padronizados que Claude pode repetir.
+Skills sêo instruções ou fluxos padronizados que Claude pode repetir.
 
 Pense em skills como “receitas de trabalho”.
 
@@ -90,15 +90,15 @@ Exemplos de skills:
 
 - relatório semanal;
 - análise de contrato;
-- resumo de reunião;
-- revisão de proposta;
-- criação de apresentação;
+- resumo de reuniêo;
+- revisêo de proposta;
+- criaçêo de apresentaçêo;
 - análise de planilha;
-- organização de pasta;
-- geração de roteiro;
+- organizaçêo de pasta;
+- geraçêo de roteiro;
 - checklist de entrega.
 
-A vantagem é que você não precisa explicar o processo completo toda vez.
+A vantagem é que você nêo precisa explicar o processo completo toda vez.
 
 Você pode dizer:
 
@@ -146,7 +146,7 @@ Exemplos:
 
 - “Estou no celular. Peça para Claude organizar os arquivos do projeto.”
 - “Dispare a rotina de resumo semanal.”
-- “Peça para preparar o material da reunião de amanhã.”
+- “Peça para preparar o material da reuniêo de amanhê.”
 
 Uso real: você envia o comando pelo celular e Claude trabalha no desktop.
 
@@ -157,16 +157,16 @@ Neste nível, Claude também começa a ajudar em tarefas visuais e de produto.
 Você pode pedir:
 
 - “Crie um protótipo de landing page para esse serviço.”
-- “Monte um design de apresentação com base nesta identidade visual.”
+- “Monte um design de apresentaçêo com base nesta identidade visual.”
 - “Crie um one-page para explicar esta oferta.”
 - “Desenhe a estrutura de uma página de captura.”
 - “Crie um layout inicial para um dashboard.”
 
-A diferença é que Claude não só escreve o conteúdo, mas ajuda a montar a estrutura visual e o fluxo.
+A diferença é que Claude nêo só escreve o conteúdo, mas ajuda a montar a estrutura visual e o fluxo.
 
 ### 8. Usar Computer Use
 
-Quando uma ferramenta não tem conector direto, Claude pode interagir visualmente com ela, como uma pessoa.
+Quando uma ferramenta nêo tem conector direto, Claude pode interagir visualmente com ela, como uma pessoa.
 
 Exemplos:
 
@@ -179,7 +179,7 @@ Exemplos:
 
 Uso prático:
 
-> “Abra essa aplicação, entre na tela de relatórios, baixe o arquivo mais recente e salve na pasta do projeto.”
+> “Abra essa aplicaçêo, entre na tela de relatórios, baixe o arquivo mais recente e salve na pasta do projeto.”
 
 Esse é um grande salto, porque Claude começa a operar interfaces.
 
@@ -187,7 +187,7 @@ Esse é um grande salto, porque Claude começa a operar interfaces.
 
 O segredo do Nível 3 é dar estrutura para Claude trabalhar com segurança.
 
-Você precisa criar uma organização clara.
+Você precisa criar uma organizaçêo clara.
 
 ### Estrutura recomendada de pastas
 
@@ -219,13 +219,13 @@ Exemplos:
 
 #### `01_templates`
 
-Modelos que Claude pode usar, mas não deve alterar.
+Modelos que Claude pode usar, mas nêo deve alterar.
 
 Exemplos:
 
 - modelo de proposta;
 - modelo de relatório;
-- modelo de apresentação;
+- modelo de apresentaçêo;
 - modelo de e-mail;
 - modelo de contrato;
 - identidade visual.
@@ -281,7 +281,7 @@ Exemplos:
 
 Materiais antigos ou finalizados.
 
-## Instrução prática para Claude no Nível 3
+## Instruçêo prática para Claude no Nível 3
 
 ```text
 Antes de começar qualquer tarefa, leia primeiro a pasta 00_sobre_mim.
@@ -293,7 +293,7 @@ Regras:
 4. Use a pasta 04_processando para rascunhos.
 5. Salve entregáveis finais em 05_outputs.
 6. Ao terminar, gere um resumo do que foi feito.
-7. Se houver risco de apagar, sobrescrever ou mover arquivos importantes, peça confirmação antes.
+7. Se houver risco de apagar, sobrescrever ou mover arquivos importantes, peça confirmaçêo antes.
 ```
 
 ## Exemplos práticos de uso
@@ -306,7 +306,7 @@ Organize minha pasta de downloads.
 Tarefas:
 1. Separe arquivos por tipo: PDFs, imagens, planilhas, documentos e outros.
 2. Renomeie arquivos quando o nome estiver confuso.
-3. Não apague nada.
+3. Nêo apague nada.
 4. Crie um resumo com o que foi encontrado.
 5. Salve o resumo em outputs.
 ```
@@ -327,10 +327,10 @@ Organize o relatório em:
 Salve o resultado em outputs como relatório_semana_atual.md.
 ```
 
-### Exemplo 3: Preparar reunião
+### Exemplo 3: Preparar reuniêo
 
 ```text
-Prepare um briefing para minha reunião de amanhã.
+Prepare um briefing para minha reuniêo de amanhê.
 
 Leia:
 - notas do projeto
@@ -341,28 +341,28 @@ Leia:
 Gere:
 1. Resumo do contexto
 2. Principais decisões anteriores
-3. Pontos de atenção
-4. Perguntas para fazer na reunião
+3. Pontos de atençêo
+4. Perguntas para fazer na reuniêo
 5. Próximas ações sugeridas
 ```
 
-### Exemplo 4: Criar apresentação
+### Exemplo 4: Criar apresentaçêo
 
 ```text
-Com base nos arquivos desta pasta, crie uma apresentação de 8 slides.
+Com base nos arquivos desta pasta, crie uma apresentaçêo de 8 slides.
 
 Estrutura:
 1. Título
 2. Problema
 3. Contexto
-4. Solução proposta
+4. Soluçêo proposta
 5. Benefícios
-6. Plano de execução
+6. Plano de execuçêo
 7. Próximos passos
 8. Encerramento
 
 Use linguagem clara e profissional.
-Salve a apresentação em outputs.
+Salve a apresentaçêo em outputs.
 ```
 
 ### Exemplo 5: Criar fluxo de atendimento
@@ -373,8 +373,8 @@ Analise estes documentos e crie um fluxo de atendimento ao cliente.
 Entregue:
 1. Etapas do atendimento
 2. Responsável por cada etapa
-3. Mensagens padrão
-4. Pontos de automação possíveis
+3. Mensagens padrêo
+4. Pontos de automaçêo possíveis
 5. Checklist operacional
 ```
 
@@ -412,13 +412,13 @@ Templates devem ser somente leitura na prática.
 
 Sempre diga:
 
-> “Não edite os templates. Faça cópias.”
+> “Nêo edite os templates. Faça cópias.”
 
-### 3. Nunca deixe apagar arquivos sem confirmação
+### 3. Nunca deixe apagar arquivos sem confirmaçêo
 
 Inclua sempre esta regra:
 
-> “Não apague nada sem minha confirmação.”
+> “Nêo apague nada sem minha confirmaçêo.”
 
 ### 4. Peça relatório final
 
@@ -429,11 +429,11 @@ Ao concluir, Claude deve dizer:
 - quais arquivos criou;
 - onde salvou;
 - quais problemas encontrou;
-- o que precisa de revisão humana.
+- o que precisa de revisêo humana.
 
 ### 5. Comece com tarefas de baixo risco
 
-Não comece automatizando algo sensível.
+Nêo comece automatizando algo sensível.
 
 Comece com:
 
@@ -453,11 +453,11 @@ Você está no Nível 3 quando:
 - Claude consegue trabalhar com suas pastas;
 - você usa skills para tarefas repetidas;
 - você tem estrutura de entradas e outputs;
-- você gera entregáveis com menos intervenção;
+- você gera entregáveis com menos intervençêo;
 - você usa Claude para organizar arquivos;
 - você agenda tarefas simples;
 - você aciona trabalhos pelo desktop ou celular;
-- você começa a pensar em processos, não apenas prompts.
+- você começa a pensar em processos, nêo apenas prompts.
 
 ## Resultado esperado
 
@@ -465,11 +465,11 @@ No Nível 3, você pode economizar **10 horas ou mais por semana**, principalmen
 
 Você ganha:
 
-- organização;
-- execução;
-- padronização;
-- repetição de processos;
-- geração de entregáveis;
+- organizaçêo;
+- execuçêo;
+- padronizaçêo;
+- repetiçêo de processos;
+- geraçêo de entregáveis;
 - menos retrabalho;
 - mais capacidade de atender clientes;
 - base para vender automações simples.
@@ -480,12 +480,12 @@ O limite é que ainda falta rigor técnico completo.
 
 Claude pode executar tarefas, mas para sistemas mais complexos você ainda precisa de:
 
-- controle de versão;
-- revisão de código;
+- controle de versêo;
+- revisêo de código;
 - ambientes isolados;
 - testes;
 - branches;
 - subagentes especializados;
-- validação mais robusta.
+- validaçêo mais robusta.
 
 Quando você começa a precisar de engenharia real, múltiplas sessões paralelas e projetos técnicos mais sérios, entra no **Nível 4 — Avançado**, com Claude Code.

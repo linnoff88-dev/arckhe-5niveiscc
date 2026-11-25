@@ -2,10 +2,10 @@
 
 O **Nível 5** é quando Claude deixa de ser apenas uma ferramenta que você abre para trabalhar e passa a funcionar como **infraestrutura autônoma**.
 
-Aqui, Claude pode rodar tarefas mesmo quando você não está na frente do computador, reagir a eventos, executar rotinas, revisar código, enviar notificações e coordenar agentes.
+Aqui, Claude pode rodar tarefas mesmo quando você nêo está na frente do computador, reagir a eventos, executar rotinas, revisar código, enviar notificações e coordenar agentes.
 
 > No Nível 4, Claude trabalha como uma equipe técnica quando você aciona.  
-> No Nível 5, Claude trabalha como um sistema autônomo, com regras, gatilhos e supervisão.
+> No Nível 5, Claude trabalha como um sistema autônomo, com regras, gatilhos e supervisêo.
 
 ## O que caracteriza o Nível 5
 
@@ -15,13 +15,13 @@ O Nível 5 é marcado por:
 - automações acionadas por eventos;
 - hooks de segurança;
 - canais externos de controle;
-- execução sem interface humana;
+- execuçêo sem interface humana;
 - agentes especializados;
 - controle de orçamento;
 - monitoramento;
 - confiança gradual.
 
-Esse é o nível em que Claude vira uma espécie de **operação sempre ligada**.
+Esse é o nível em que Claude vira uma espécie de **operaçêo sempre ligada**.
 
 ## A grande mudança do Nível 5
 
@@ -38,7 +38,7 @@ Exemplos:
 - quando abrirem um pull request, Claude revisa;
 - toda segunda-feira, Claude faz auditoria de dependências;
 - todo dia às 8h, Claude gera um resumo do backlog;
-- quando uma reunião for marcada, Claude prepara um briefing;
+- quando uma reuniêo for marcada, Claude prepara um briefing;
 - quando um relatório chegar, Claude processa e envia um resumo.
 
 Aqui você deixa de operar Claude manualmente e passa a desenhar **sistemas de trabalho autônomos**.
@@ -47,7 +47,7 @@ Aqui você deixa de operar Claude manualmente e passa a desenhar **sistemas de t
 
 ### 1. Rodar rotinas na nuvem
 
-As **Cloud Routines** são configurações salvas que rodam no ambiente da nuvem, sem depender do seu computador ligado.
+As **Cloud Routines** sêo configurações salvas que rodam no ambiente da nuvem, sem depender do seu computador ligado.
 
 No Nível 3, tarefas agendadas ainda dependiam do desktop aberto.
 
@@ -81,7 +81,7 @@ Exemplos:
 - nova linha em uma planilha;
 - novo e-mail recebido;
 - formulário preenchido;
-- reunião criada no calendário;
+- reuniêo criada no calendário;
 - chamada de API;
 - mensagem em um canal.
 
@@ -95,11 +95,11 @@ Quando um novo pull request for aberto, revise o código e publique comentários
 4. Sugestões de testes
 ```
 
-Esse tipo de automação muda o papel de Claude: ele deixa de ser reativo a você e passa a ser reativo ao sistema.
+Esse tipo de automaçêo muda o papel de Claude: ele deixa de ser reativo a você e passa a ser reativo ao sistema.
 
 ## 3. Usar hooks como trilhos de segurança
 
-**Hooks** são regras que disparam antes, durante ou depois de certas ações.
+**Hooks** sêo regras que disparam antes, durante ou depois de certas ações.
 
 Eles servem para controlar riscos.
 
@@ -110,7 +110,7 @@ Roda antes de Claude usar uma ferramenta ou executar um comando.
 Serve para bloquear ações perigosas.
 
 ```text
-Antes de qualquer comando que apague arquivos, peça confirmação humana.
+Antes de qualquer comando que apague arquivos, peça confirmaçêo humana.
 Bloqueie automaticamente comandos como rm -rf, delete recursive ou reset hard.
 ```
 
@@ -121,7 +121,7 @@ Roda depois que Claude edita arquivos.
 Serve para formatar, validar ou registrar mudanças.
 
 ```text
-Depois de qualquer edição de código:
+Depois de qualquer ediçêo de código:
 1. Rode o formatador
 2. Rode lint
 3. Registre os arquivos alterados
@@ -145,10 +145,10 @@ Quando a tarefa terminar, envie uma mensagem no Slack com:
 
 Roda quando Claude responde.
 
-Serve para alertar você quando precisa voltar à sessão.
+Serve para alertar você quando precisa voltar à sessêo.
 
 ```text
-Quando Claude precisar de aprovação humana, envie uma notificação.
+Quando Claude precisar de aprovaçêo humana, envie uma notificaçêo.
 ```
 
 ## 4. Criar canais de controle
@@ -165,15 +165,15 @@ Exemplos de canais:
 - painel interno;
 - app próprio.
 
-### Canal de mão única
+### Canal de mêo única
 
 Um evento externo aciona Claude.
 
 ```text
-Quando uma reunião for criada no calendário, acione Claude para preparar um briefing.
+Quando uma reuniêo for criada no calendário, acione Claude para preparar um briefing.
 ```
 
-### Canal de mão dupla
+### Canal de mêo dupla
 
 Você conversa com Claude por outro canal.
 
@@ -189,7 +189,7 @@ Claude executa no ambiente configurado e responde no próprio canal.
 
 **Headless mode** significa rodar Claude sem uma interface de conversa aberta.
 
-Você passa uma instrução, Claude executa, devolve resultado e pode encaminhar para outro sistema.
+Você passa uma instruçêo, Claude executa, devolve resultado e pode encaminhar para outro sistema.
 
 Exemplo conceitual:
 
@@ -218,7 +218,7 @@ Exemplos:
 
 - agente de atendimento;
 - agente de análise documental;
-- agente de revisão de código;
+- agente de revisêo de código;
 - agente financeiro;
 - agente de relatórios;
 - agente de pesquisa;
@@ -242,7 +242,7 @@ O controle remoto permite acompanhar ou acionar sessões a partir de outro dispo
 Exemplos:
 
 - iniciar tarefa pelo celular;
-- acompanhar execução no navegador;
+- acompanhar execuçêo no navegador;
 - aprovar uma etapa fora do computador;
 - receber QR code ou link de acesso;
 - continuar monitorando enquanto está longe.
@@ -250,7 +250,7 @@ Exemplos:
 Uso real:
 
 ```text
-Verifique se os testes passaram e me avise se precisar de aprovação.
+Verifique se os testes passaram e me avise se precisar de aprovaçêo.
 ```
 
 ## 8. Consolidar memória
@@ -265,7 +265,7 @@ Com o tempo, agentes podem acumular:
 - decisões ultrapassadas;
 - referências vagas como “ontem” ou “semana passada”.
 
-A consolidação de memória serve para limpar e organizar isso.
+A consolidaçêo de memória serve para limpar e organizar isso.
 
 Exemplos do que ela faz:
 
@@ -293,7 +293,7 @@ Tarefas:
 
 Em agentes autônomos, custo e tempo podem sair do controle.
 
-Por isso, o Nível 5 exige **task budgets**: limites para uma execução.
+Por isso, o Nível 5 exige **task budgets**: limites para uma execuçêo.
 
 Exemplo:
 
@@ -303,7 +303,7 @@ Priorize:
 1. Segurança
 2. Bugs críticos
 3. Testes ausentes
-4. Documentação apenas se sobrar orçamento
+4. Documentaçêo apenas se sobrar orçamento
 ```
 
 A ideia é fazer o agente se autorregular:
@@ -312,7 +312,7 @@ A ideia é fazer o agente se autorregular:
 - evitar loops;
 - priorizar o mais importante;
 - encerrar com resumo;
-- não gastar indefinidamente.
+- nêo gastar indefinidamente.
 
 ## 10. Criar equipes de agentes
 
@@ -323,7 +323,7 @@ Exemplo de equipe:
 - agente líder;
 - agente de segurança;
 - agente de testes;
-- agente de documentação;
+- agente de documentaçêo;
 - agente de UX;
 - agente de performance;
 - agente de arquitetura.
@@ -340,14 +340,14 @@ Papéis:
 2. Segurança: procura vulnerabilidades
 3. Testes: verifica cobertura
 4. UX: avalia fluxo do usuário
-5. Documentação: confere clareza
+5. Documentaçêo: confere clareza
 
 O agente líder deve consolidar as conclusões e entregar um plano priorizado.
 ```
 
 ## 11. Descobrir e reaproveitar o que já existe
 
-No Nível 5, a habilidade mais importante não é criar tudo do zero.
+No Nível 5, a habilidade mais importante nêo é criar tudo do zero.
 
 É saber encontrar e adaptar:
 
@@ -367,11 +367,11 @@ Isso economiza tempo e reduz erro.
 
 ## Como implementar o Nível 5 com segurança
 
-O maior desafio do Nível 5 não é técnico.
+O maior desafio do Nível 5 nêo é técnico.
 
 É **confiança**.
 
-Você não deve começar dando autonomia total para Claude em tarefas críticas.
+Você nêo deve começar dando autonomia total para Claude em tarefas críticas.
 
 Comece pequeno.
 
@@ -385,13 +385,13 @@ Todo dia às 8h, gere um resumo das tarefas pendentes e envie apenas para mim.
 
 Características de uma boa primeira rotina:
 
-- não envia nada para clientes;
-- não altera arquivos importantes;
-- não apaga nada;
-- não faz deploy;
+- nêo envia nada para clientes;
+- nêo altera arquivos importantes;
+- nêo apaga nada;
+- nêo faz deploy;
 - apenas lê, resume e informa.
 
-### Etapa 2 — Rotina com validação humana
+### Etapa 2 — Rotina com validaçêo humana
 
 Exemplo:
 
@@ -399,13 +399,13 @@ Exemplo:
 Quando um pull request for aberto:
 1. Revise o código.
 2. Gere comentários sugeridos.
-3. Não publique automaticamente.
-4. Envie para minha aprovação.
+3. Nêo publique automaticamente.
+4. Envie para minha aprovaçêo.
 ```
 
 Aqui Claude trabalha, mas você aprova antes.
 
-### Etapa 3 — Ação automática limitada
+### Etapa 3 — Açêo automática limitada
 
 Exemplo:
 
@@ -413,24 +413,24 @@ Exemplo:
 Quando uma tarefa for concluída:
 1. Atualize o status no quadro.
 2. Envie resumo para o canal interno.
-3. Não altere código.
-4. Não envie mensagem externa.
+3. Nêo altere código.
+4. Nêo envie mensagem externa.
 ```
 
 ### Etapa 4 — Autonomia maior
 
-Somente depois de semanas de execução confiável, você libera ações mais fortes.
+Somente depois de semanas de execuçêo confiável, você libera ações mais fortes.
 
 Exemplo:
 
 ```text
-Se o PR alterar apenas documentação:
+Se o PR alterar apenas documentaçêo:
 1. Revise automaticamente.
 2. Rode checks.
-3. Comente aprovação se tudo estiver correto.
+3. Comente aprovaçêo se tudo estiver correto.
 ```
 
-## Exemplo prático completo: revisão automática de PR
+## Exemplo prático completo: revisêo automática de PR
 
 ### Objetivo
 
@@ -445,23 +445,23 @@ Novo PR aberto no GitHub.
 1. Claude recebe evento do PR.
 2. Lê arquivos alterados.
 3. Verifica riscos.
-4. Roda checklist de revisão.
+4. Roda checklist de revisêo.
 5. Gera comentários.
-6. Envia para aprovação humana ou publica conforme regra.
+6. Envia para aprovaçêo humana ou publica conforme regra.
 7. Registra resumo.
 
 ### Regras de segurança
 
 ```text
 Regras:
-1. Nunca aprove PRs automaticamente se houver alteração em autenticação, pagamento ou permissões.
+1. Nunca aprove PRs automaticamente se houver alteraçêo em autenticaçêo, pagamento ou permissões.
 2. Nunca rode comandos destrutivos.
 3. Se detectar segredo, token ou credencial, pare e avise imediatamente.
-4. Se houver mudança em banco de dados, peça revisão humana.
-5. Se os testes falharem, não aprove.
+4. Se houver mudança em banco de dados, peça revisêo humana.
+5. Se os testes falharem, nêo aprove.
 ```
 
-## Exemplo prático completo: briefing automático de reunião
+## Exemplo prático completo: briefing automático de reuniêo
 
 ### Objetivo
 
@@ -469,7 +469,7 @@ Preparar briefing antes de reuniões.
 
 ### Gatilho
 
-Nova reunião no calendário ou reunião do dia seguinte.
+Nova reuniêo no calendário ou reuniêo do dia seguinte.
 
 ### Fluxo
 
@@ -479,14 +479,14 @@ Nova reunião no calendário ou reunião do dia seguinte.
 4. Lista pendências.
 5. Sugere perguntas.
 6. Gera um briefing.
-7. Envia para você antes da reunião.
+7. Envia para você antes da reuniêo.
 
 ### Prompt da rotina
 
 ```text
-Para cada reunião de amanhã, gere um briefing com:
+Para cada reuniêo de amanhê, gere um briefing com:
 
-1. Nome da reunião
+1. Nome da reuniêo
 2. Participantes
 3. Contexto conhecido
 4. Últimas decisões
@@ -502,7 +502,7 @@ Envie apenas para mim.
 
 ### Objetivo
 
-Gerar relatório semanal sem intervenção manual.
+Gerar relatório semanal sem intervençêo manual.
 
 ### Gatilho
 
@@ -515,7 +515,7 @@ Toda sexta-feira às 16h.
 3. Agrupar por projeto.
 4. Destacar riscos.
 5. Gerar relatório.
-6. Enviar para revisão.
+6. Enviar para revisêo.
 
 ### Prompt da rotina
 
@@ -528,9 +528,9 @@ Formato:
 3. Pendências
 4. Riscos
 5. Próximas ações
-6. Itens que precisam da minha decisão
+6. Itens que precisam da minha decisêo
 
-Não envie para clientes. Envie apenas para mim.
+Nêo envie para clientes. Envie apenas para mim.
 ```
 
 ## Checklist de segurança do Nível 5
@@ -541,10 +541,10 @@ Antes de colocar uma rotina autônoma para rodar, confirme:
 - qual é o escopo;
 - quais dados ela pode acessar;
 - quais ações ela pode executar;
-- quais ações são proibidas;
-- quando deve pedir aprovação humana;
+- quais ações sêo proibidas;
+- quando deve pedir aprovaçêo humana;
 - como você será notificado;
-- onde os logs serão salvos;
+- onde os logs serêo salvos;
 - como interromper a rotina;
 - como revisar o histórico;
 - qual é o orçamento de tokens;
@@ -554,9 +554,9 @@ Antes de colocar uma rotina autônoma para rodar, confirme:
 
 ```text
 Regras gerais:
-1. Nunca apague arquivos sem aprovação humana.
-2. Nunca envie mensagens externas sem aprovação humana.
-3. Nunca faça deploy sem confirmação explícita.
+1. Nunca apague arquivos sem aprovaçêo humana.
+2. Nunca envie mensagens externas sem aprovaçêo humana.
+3. Nunca faça deploy sem confirmaçêo explícita.
 4. Nunca aprove mudanças críticas automaticamente.
 5. Sempre registre o que foi feito.
 6. Sempre avise quando encontrar erro.
@@ -583,28 +583,28 @@ Se você trabalha com serviços, o Nível 5 permite vender soluções mais estra
 
 Exemplos:
 
-- revisão automática de PRs;
+- revisêo automática de PRs;
 - agente de relatório semanal;
 - agente de briefing de reuniões;
 - monitor de tarefas pendentes;
 - auditor de dependências;
 - triagem automática de tickets;
-- agente de documentação;
-- automação de onboarding;
+- agente de documentaçêo;
+- automaçêo de onboarding;
 - agente de análise de documentos;
 - sistema de alertas inteligentes.
 
-Aqui você não vende “prompt”.
+Aqui você nêo vende “prompt”.
 
 Você vende **infraestrutura de trabalho**.
 
 ## Erros comuns no Nível 5
 
 1. Dar autonomia demais cedo demais.
-2. Não ter logs.
-3. Não ter botão de parada.
-4. Não separar ambientes.
-5. Não definir limites.
+2. Nêo ter logs.
+3. Nêo ter botêo de parada.
+4. Nêo separar ambientes.
+5. Nêo definir limites.
 6. Confiar sem observar.
 7. Automatizar processos ruins.
 
@@ -620,20 +620,20 @@ Você está no Nível 5 quando:
 - agentes têm escopo claro;
 - existem limites de orçamento;
 - você começa com baixo risco e aumenta autonomia aos poucos;
-- Claude trabalha mesmo quando você não está presente;
-- você pensa em sistemas, não em conversas.
+- Claude trabalha mesmo quando você nêo está presente;
+- você pensa em sistemas, nêo em conversas.
 
 ## Resultado esperado
 
 No Nível 5, você ganha:
 
-- automação contínua;
-- redução de tarefas repetitivas;
+- automaçêo contínua;
+- reduçêo de tarefas repetitivas;
 - monitoramento ativo;
 - respostas mais rápidas a eventos;
-- revisão técnica constante;
+- revisêo técnica constante;
 - relatórios automáticos;
-- operação mais escalável;
+- operaçêo mais escalável;
 - menos dependência da sua presença;
 - capacidade de criar produtos e serviços mais avançados.
 
@@ -657,7 +657,7 @@ Escreva:
 
 - o que pode ler;
 - o que pode fazer;
-- o que não pode fazer;
+- o que nêo pode fazer;
 - quando deve parar.
 
 ### Dia 3 — Crie o formato de saída
@@ -673,7 +673,7 @@ Exemplo:
 4. Ações recomendadas
 ```
 
-### Dia 4 — Adicione notificação
+### Dia 4 — Adicione notificaçêo
 
 Escolha onde receber:
 
@@ -687,7 +687,7 @@ Escolha onde receber:
 
 Antes de automatizar, execute como teste.
 
-### Dia 6 — Agende com supervisão
+### Dia 6 — Agende com supervisêo
 
 Faça rodar automaticamente, mas sem enviar para terceiros.
 
@@ -714,7 +714,7 @@ Tarefa:
 Gatilho:
 [quando deve rodar]
 
-Fontes de informação:
+Fontes de informaçêo:
 [o que pode acessar]
 
 Ações permitidas:
@@ -723,13 +723,13 @@ Ações permitidas:
 Ações proibidas:
 [o que nunca deve fazer]
 
-Quando pedir aprovação humana:
+Quando pedir aprovaçêo humana:
 [condições]
 
 Formato da entrega:
 [modelo de saída]
 
-Notificação:
+Notificaçêo:
 [onde deve avisar]
 
 Logs:
@@ -761,9 +761,9 @@ Mas o avanço deve ser gradual.
 
 Primeiro leitura.  
 Depois rascunho.  
-Depois ação com aprovação.  
-Só então autonomia controlada.
+Depois açêo com aprovaçêo.  
+Só entêo autonomia controlada.
 
-O objetivo não é deixar a IA solta.
+O objetivo nêo é deixar a IA solta.
 
-O objetivo é construir um sistema confiável, com regras, limites, logs e supervisão.
+O objetivo é construir um sistema confiável, com regras, limites, logs e supervisêo.
